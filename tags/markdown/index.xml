@@ -669,7 +669,7 @@
 
 
 
-&lt;div id=&#34;chart-487125396&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-194825673&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -687,7 +687,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-487125396&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-194825673&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -875,7 +875,7 @@ Crash --&amp;gt; [*]
 
 
 
-&lt;div id=&#34;chart-875164932&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-968742531&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -893,7 +893,7 @@ Crash --&amp;gt; [*]
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-875164932&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-968742531&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1081,7 +1081,7 @@ Crash --&amp;gt; [*]
 
 
 
-&lt;div id=&#34;chart-943861752&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-394872516&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -1099,7 +1099,7 @@ Crash --&amp;gt; [*]
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-943861752&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-394872516&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
